@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  ### Hi there, I'm Maksim
-  ## Frontend developer | HTML, CSS, JavaScript, React
+  <h2>Hi there, I'm Maksim</h2>
+  <h3>Frontend developer | HTML, CSS, JavaScript, React</h3>
 </div>
 
 <!--
