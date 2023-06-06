@@ -3,11 +3,11 @@
   <h3>Frontend developer | HTML, CSS, JavaScript, React</h3>
 </div>
 <div id="socials" align="center">
-  <a href="https://www.linkedin.com/in/maksim-pronevich-280938193/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="30" height="30"/>&nbsp;
+  <a href="https://www.linkedin.com/in/maksim-pronevich-280938193/">
+    <img src="https://github.com/MaksPronevich/icons/blob/master/socials/linkedin/linkedin.svg" title="Linkedin" alt="Linkedin" width="30" height="30"/>&nbsp;
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" title="Telegram" alt="Telegram" width="30" height="30"/>&nbsp;
+  <a href="https://t.me/makspronevich">
+    <img src="https://github.com/MaksPronevich/icons/blob/master/socials/telegram/telegram.svg" title="Telegram" alt="Telegram" width="30" height="30"/>&nbsp;
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
