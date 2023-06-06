@@ -3,7 +3,7 @@
   <h3>Frontend developer | HTML, CSS, JavaScript, React</h3>
 </div>
 <div id="socials" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/maksim-pronevich-280938193/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="30" height="30"/>&nbsp;
   </a>
   <a href="your-youtube-URL">
