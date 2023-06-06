@@ -48,6 +48,11 @@
 
 **`Semantic HTML`** &emsp; **`CSS Grid`** &emsp; **`CSS Flexbox`** &emsp; **`BEM`** &emsp; **`Responsive and adaptive design`** &emsp;
 
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaksPronevich&theme=dark&background=000000)](https://git.io/streak-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksPronevich&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
