@@ -18,6 +18,8 @@
 ### :gear: Languages and Tools :
 <div>
   <img src="https://github.com/MaksPronevich/icons/blob/master/languages_and_tools/html/html.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/MaksPronevich/icons/blob/master/languages_and_tools/css/css.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/MaksPronevich/icons/blob/master/languages_and_tools/sass/sass.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
 </div>
 
 
