@@ -46,7 +46,7 @@
 </div>
 <br/>
 
-`Semantic HTML` `CSS Grid` `CSS Flexbox` `BEM` `Responsive and adaptive design`
+**`Semantic HTML`** **`CSS Grid`** **`CSS Flexbox`** **`BEM`** **`Responsive and adaptive design`**
 
 
 
