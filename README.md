@@ -9,7 +9,7 @@
   <a href="https://t.me/makspronevich">
     <img src="https://github.com/MaksPronevich/icons/blob/master/socials/telegram/telegram.svg" title="Telegram" alt="Telegram" width="30" height="30"/>&nbsp;
   </a>
-  <a href="viber://chat?number=%2B375333203635">
+  <a href="viber://add?number=%2B375333203635">
     <img src="https://github.com/MaksPronevich/icons/blob/master/socials/viber/viber.svg" title="Viber" alt="Viber" width="30" height="30"/>&nbsp;
   </a>
 </div>
