@@ -44,8 +44,9 @@
   <img src="https://github.com/MaksPronevich/icons/blob/master/languages_and_tools/eslint/eslint.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
   <img src="https://github.com/MaksPronevich/icons/blob/master/languages_and_tools/bem/bem.svg" title="BEM" alt="BEM" width="40" height="40"/>&nbsp;
 </div>
+<br/>
 
-
+`Semantic HTML` `CSS Grid` `CSS Flexbox` `BEM` `Responsive and adaptive design`
 
 
 
