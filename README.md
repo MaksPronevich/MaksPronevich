@@ -32,11 +32,11 @@
   <img src="https://github.com/MaksPronevich/icons/blob/master/languages_and_tools/gulp/gulp.svg" title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/MaksPronevich/icons/blob/master/languages_and_tools/webpack/webpack.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/MaksPronevich/icons/blob/master/languages_and_tools/babel/babel.svg" title="Babel" alt="Babel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/MaksPronevich/icons/blob/master/languages_and_tools/reactjs/reactjs.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/MaksPronevich/icons/blob/master/languages_and_tools/react-router/react-router.svg" title="React Router" alt="React Router" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/MaksPronevich/icons/blob/master/languages_and_tools/material-ui/material-ui.svg" title="Materual UI" alt="Materual UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/MaksPronevich/icons/blob/master/languages_and_tools/nextjs/nextjs.svg" title="Next JS" alt="Next JS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/MaksPronevich/icons/blob/master/languages_and_tools/typescript/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+<!--   <img src="https://github.com/MaksPronevich/icons/blob/master/languages_and_tools/reactjs/reactjs.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp; -->
+<!--   <img src="https://github.com/MaksPronevich/icons/blob/master/languages_and_tools/react-router/react-router.svg" title="React Router" alt="React Router" width="40" height="40"/>&nbsp; -->
+<!--   <img src="https://github.com/MaksPronevich/icons/blob/master/languages_and_tools/material-ui/material-ui.svg" title="Materual UI" alt="Materual UI" width="40" height="40"/>&nbsp; -->
+<!--   <img src="https://github.com/MaksPronevich/icons/blob/master/languages_and_tools/nextjs/nextjs.svg" title="Next JS" alt="Next JS" width="40" height="40"/>&nbsp; -->
+<!--   <img src="https://github.com/MaksPronevich/icons/blob/master/languages_and_tools/typescript/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/MaksPronevich/icons/blob/master/languages_and_tools/figma/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/MaksPronevich/icons/blob/master/languages_and_tools/adobe-xd/adobe-xd.svg" title="Adobe XD" alt="Adobe XD" width="40" height="40"/>&nbsp;
   <img src="https://github.com/MaksPronevich/icons/blob/master/languages_and_tools/adobe-photoshop/adobe-photoshop.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" height="40"/>&nbsp;
